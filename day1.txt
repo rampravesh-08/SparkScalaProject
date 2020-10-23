@@ -1,0 +1,7 @@
+1,Ram,10000,25,Add1,1
+2,Pravesh,10000,25,Add2,1
+3,Kumar,10030,25,Add3,1
+4,Sandy,10000,21,Add4,1
+5,Yadav,15000,25,Add5,1
+6,Sadique,13000,26,Add6,1
+7,Annika,10080,28,Add7,1
